@@ -1,0 +1,7 @@
+let x =54 ;
+
+if(x%2 == 0){
+    console.log("Even")
+}else{
+    console.log("Odd");
+}
