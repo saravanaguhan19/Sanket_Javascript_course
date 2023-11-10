@@ -3,6 +3,7 @@ class vehicle {
     typeOfVehicle;
     isPower;
 
+    
 
     startVehicle(){
 
